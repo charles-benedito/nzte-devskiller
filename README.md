@@ -3,7 +3,7 @@
 My project used as step to be contracted by NZTE.
 
 ### Demo
-[Online demo at Heroku](https://devskiller-nzte-test.herokuapp.com:8080)
+[Online demo at Heroku](https://devskiller-nzte-test.herokuapp.com)
 
 ## Getting Started
 

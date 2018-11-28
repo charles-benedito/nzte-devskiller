@@ -5,6 +5,7 @@
   "private": false,
   "description": "Just a test for NZTE",
   "license": "MIT",
+  "homepage": "https://devskiller-nzte-test.herokuapp.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/charles-benedito/nzte-devskiller"

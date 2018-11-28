@@ -10,8 +10,7 @@
     "url": "https://github.com/charles-benedito/nzte-devskiller"
   },
   "scripts": {
-    "start": "node app.js",
-    "deploy": ""
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.16.4"
